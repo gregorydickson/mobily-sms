@@ -1,1 +1,4 @@
-# mobily-sms
+Java and Groovy API for Mobily.ws
+
+
+
